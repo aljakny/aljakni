@@ -1,4 +1,4 @@
-![image alt] (https://github.com/aljakny/aljakni/blob/fa483d680662f35e5bf55805e8159e088f1778c1/ahmed-aljakni-profile.png) 
+![image alt](https://github.com/aljakny/aljakni/blob/fa483d680662f35e5bf55805e8159e088f1778c1/ahmed-aljakni-profile.png) 
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Aljakni
