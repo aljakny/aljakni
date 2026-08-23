@@ -24,23 +24,27 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Workspace" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" alt="Developer" width="40%"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat-square\&color=blue\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
----
+<hr>
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ahmed Aljakni**, a **Front-End Developer** passionate about creating modern, responsive, and user-friendly digital experiences.
+Hi, I'm **Ahmed Aljakni**, a **Front-End Developer** passionate about building modern, responsive, and user-friendly digital experiences.
 
-I enjoy turning ideas and designs into clean, interactive, and functional interfaces. My main focus is front-end development using **HTML, CSS, JavaScript, and Dart**.
+I enjoy transforming ideas and designs into clean, interactive, and functional interfaces using modern front-end technologies.
 
-I believe that great front-end development is about more than writing code — it's about creating experiences that are **beautiful, intuitive, responsive, and enjoyable to use**.
+My main technologies are:
+
+**HTML • CSS • JavaScript • Dart**
+
+I care about writing clean code, creating responsive interfaces, and continuously improving the user experience.
 
 * 💻 Front-End Developer
 * 🌐 Focused on modern web interfaces
@@ -57,28 +61,23 @@ I believe that great front-end development is about more than writing code — i
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-### 🎯 Programming
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat\&logo=visual%20studio%20code\&logoColor=white)
 
 ---
-
-## 📚 My Stack
 
 ```javascript
 const AhmedAljakni = {
     name: "Ahmed Aljakni",
     role: "Front-End Developer",
 
-    languages: [
+    technologies: [
         "HTML",
         "CSS",
         "JavaScript",
@@ -112,30 +111,30 @@ const AhmedAljakni = {
 
 I build modern and responsive interfaces with a focus on usability, clean structure, and visual quality.
 
-### ⚡ JavaScript
+### ⚡ JavaScript Development
 
 I use JavaScript to create dynamic and interactive web experiences.
 
 ### 📱 Responsive Design
 
-I care about building interfaces that work smoothly across:
+I build interfaces that work smoothly across:
 
 `Desktop` • `Tablet` • `Mobile`
 
 ### 🧩 UI Implementation
 
-I enjoy transforming ideas and designs into functional, polished interfaces.
+I enjoy transforming ideas and designs into functional and polished interfaces.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Always Learning
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="30" alt="Developer"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" alt="Developer"/>
 
-I'm continuously working on improving my skills in:
+I'm continuously improving my skills in:
 
-* Advanced JavaScript
 * Modern Front-End Development
+* JavaScript
 * Responsive Web Design
 * UI/UX
 * Clean Code
@@ -148,25 +147,35 @@ I'm continuously working on improving my skills in:
 
 > **"Great interfaces don't just look good — they feel right."**
 
-For me, good front-end development combines:
+I believe great front-end development combines:
 
 **Design + Code + Performance + User Experience**
 
-My goal is to create digital experiences that are visually appealing, responsive, intuitive, and enjoyable to use.
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/aljakny">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aljakny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Ahmed's GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljakny&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" alt="Repositories per Language"/>
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" alt="Most Commit Language"/>
 
 </a>
+
+<details>
+
+<summary><strong>More Stats</strong></summary>
+
+<br>
+
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" alt="GitHub Profile Details"/>
+
+</details>
 
 </div>
 
@@ -182,11 +191,11 @@ My goal is to create digital experiences that are visually appealing, responsive
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aljakny&theme=tokyo-night&hide_border=true" width="95%" alt="Ahmed's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aljakny&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -218,7 +227,7 @@ My goal is to create digital experiences that are visually appealing, responsive
 
 <div align="center">
 
-I'm always interested in connecting with developers, designers, and people who are passionate about technology and building great digital experiences.
+I'm always open to connecting with developers, designers, and technology enthusiasts.
 
 <br><br>
 
@@ -242,7 +251,7 @@ I'm always interested in connecting with developers, designers, and people who a
 
 ### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat-square\&color=blue\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat-square\&color=orange\&label=PROFILE+VIEWS)
 
 <br><br>
 
