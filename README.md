@@ -20,15 +20,11 @@
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" alt="Developer" width="40%"/>
+<img src="./assets/ahmed-aljakni-profile.png" alt="Ahmed Aljakni - Front-End Developer" width="90%"/>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aljakny&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -46,12 +42,12 @@ My main technologies are:
 
 I care about writing clean code, creating responsive interfaces, and continuously improving the user experience.
 
-* 💻 Front-End Developer
-* 🌐 Focused on modern web interfaces
-* 🎨 Interested in UI/UX and visual design
-* ⚡ Passionate about interactive user experiences
-* 📱 Interested in responsive interfaces
-* 🚀 Always learning and improving
+- 💻 Front-End Developer
+- 🌐 Focused on modern web interfaces
+- 🎨 Interested in UI/UX and visual design
+- ⚡ Passionate about interactive user experiences
+- 📱 Interested in responsive interfaces
+- 🚀 Always learning and improving
 
 ---
 
@@ -59,16 +55,16 @@ I care about writing clean code, creating responsive interfaces, and continuousl
 
 ### 🌐 Front-End
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### 🔧 Development Tools
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat\&logo=visual%20studio%20code\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
@@ -129,17 +125,15 @@ I enjoy transforming ideas and designs into functional and polished interfaces.
 
 ## 🌱 Always Learning
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" alt="Developer"/>
-
 I'm continuously improving my skills in:
 
-* Modern Front-End Development
-* JavaScript
-* Responsive Web Design
-* UI/UX
-* Clean Code
-* Web Performance
-* Dart Development
+- Modern Front-End Development
+- JavaScript
+- Responsive Web Design
+- UI/UX
+- Clean Code
+- Web Performance
+- Dart Development
 
 ---
 
@@ -173,7 +167,7 @@ I believe great front-end development combines:
 
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" alt="GitHub Profile Details"/>
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" alt="GitHub Profile Details"/>
 
 </details>
 
@@ -207,11 +201,11 @@ I believe great front-end development combines:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
 
-     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>
 
-     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It Works"/>
 
@@ -251,7 +245,7 @@ I'm always open to connecting with developers, designers, and technology enthusi
 
 ### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=aljakny\&style=flat-square\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aljakny&style=flat-square&color=orange&label=PROFILE+VIEWS)
 
 <br><br>
 
